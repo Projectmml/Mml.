@@ -1,59 +1,3 @@
-Skip to content
-
- 
-Projectmml
- /
-.MML-STUDIOS.
-
- 
- 
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-More
-
-
-
- main
-
-
-Breadcrumbs.MML-STUDIOS.
-/README.md
-
-Latest commit
-Projectmml
-Projectmml
-Update README.md
-1 minute ago
-History
-
-140 lines (118 loc) · 4.06 KB
-
-
-
- main
-
-Breadcrumbs.MML-STUDIOS.
-/README.md
-
-
-Top
-File metadata and controls
-
-Preview
-
-Code
-
-Blame
-Raw
-
-
-
-
 <title>MML Studios</title> <style> /* General Styles */ body, html { font-family:'Poppins'', sans-serif; margin: 0; padding: 0; height: 100%; background-color: #111; color: #fff; }
     a {
         text-decoration: none;
@@ -163,10 +107,10 @@ Raw
 <script>
     // Smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
+        anchor.addEventListener('click function (e) {
             e.preventDefault();
 
-            document.querySelector(this.getAttribute('href')).scrollIntoView({
+('href')).scrollIntoView({
                 behavior: 'smooth'
             });
         });
